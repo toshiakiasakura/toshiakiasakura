@@ -3,7 +3,6 @@ This is Toshiaki's repo!
 
 - I'm currently working on infectious disease modelling on COVID-19. 
 - Interested in Python, Julia, R.
-- My personal web site can be accessed from [here](https://toshiakiasakura.github.io/).
 
 ### Useful public modules
 
